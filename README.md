@@ -5,7 +5,7 @@
 ### <div align="center">I'm Abner Teng, a graduate student from NCCU department of Money and Banking.</div>  
   
 
--  Currently learning and researching in Quantitative Finance field, such as pairs trading, machine learning methods etc.
+-  Currently learning and researching in Quantitative Finance and Data Science field, want to be a Data Scientist after graduate.
   
 
 -  Works hard to have robust programming abilities in Python and C++. 
