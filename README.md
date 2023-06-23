@@ -1,64 +1,24 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-
-### <div align="center">I'm Abner Teng, a graduate student from NCCU department of Money and Banking.</div>  
-  
-
--  Currently learning and researching in Quantitative Finance and Data Science field, want to be a Data Scientist after graduate.
-  
-
--  Works hard to have robust programming abilities in Python and C++. 
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
-
-### Programming languages  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+### Hi, I'm Yu-Chen (Abner)
+I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also a data analyst intern at iKala interactive media.
+My research interests are Nautral Language Processing, Data Science and Empirical Asset Pricing with Machine Learning Approaches.
 
-### Tools  
-<div align="center">  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### Connect with me
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:abnerteng16@gmail.com)
+[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yu-chen-abner/)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbnerTeng&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAbnerTeng)
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AbnerTeng" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yu-chen-abner-teng-a636a9219/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/abner.teng.7" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@Abnerteng" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
+### My Skill Set  
+- **Programming languages**: Python, R, C++, SQL, LaTeX
+- **Frameworks**: Numpy, Pandas, PyTorch, Selenium, Scikit-learn
+- **Tools**: Git, GitHub, VSCode   
   
 
 <br/>  
-
-
-## Github Stats  
+### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbnerTeng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerTeng&hide_border=true" align="center" /></div>  
