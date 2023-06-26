@@ -1,5 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-
 <h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Yu-Chen (Abner)</h2>
 
 I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also a data analyst intern at iKala interactive media.
