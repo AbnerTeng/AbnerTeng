@@ -3,7 +3,7 @@
 I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also a data analyst intern at iKala interactive media.
 
 - **Research Fields**: Deep Learning, Nautral Language Processing (NLP), Data Science and Empirical Asset Pricing with Machine Learning / Deep Learning Approaches.
-- **Interests**: Baskteball, Coding, Travel, Shopping, Read
+- **Interests**: Baskteball, Coding, Travel, Shopping, Reading, Guitar & Sing
 - **Academic Societies**: 5th Director of Academic Affairs @NTUDAC, 23th Algorithmic Trading mentor @TMBA
   
 Feel free to contact!
