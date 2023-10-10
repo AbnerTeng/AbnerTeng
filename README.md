@@ -15,9 +15,9 @@ Feel free to contact!
 
 <h2><img src = "https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width = "50">&nbsp My Skill Set</h2>  
 
-- **Programming languages**: Python, R, C++, SQL, LaTeX
+- **Programming languages**: Python, R, C++, SQL, LaTeX, Shell Script
 - **Frameworks**: Numpy, Pandas, PyTorch, Transformer, huggingface API, Selenium, Scikit-learn
-- **Tools**: Git, GitHub, VSCode   
+- **Tools**: Git, GitHub, VSCode, Linux Command, Vim
   
 
 <h2><img src = "https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif" width = "50">&nbsp My GitHub Status</h2>  
