@@ -18,7 +18,13 @@ Feel free to contact!
 - **Programming languages**: Python, R, C++, SQL, LaTeX, Shell Script
 - **Frameworks**: Numpy, Pandas, PyTorch, Transformer, huggingface API, Selenium, Scikit-learn
 - **Tools**: Git, GitHub, VSCode, Linux Command, Vim
-  
+
+<h3>Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py, pytorch, mysql, cpp, vim. linux, latex, git, githu, gitlab" />
+  </a>
+</p>
 
 <h2><img src = "https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif" width = "50">&nbsp My GitHub Status</h2>  
 <div>
