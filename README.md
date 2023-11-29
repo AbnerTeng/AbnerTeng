@@ -17,7 +17,7 @@ Feel free to contact!
 <h3> Programming Language / Develop Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,cpp,vim,linux,latex,git,github,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=py,mysql,cpp,bash,vim,linux,latex,git,github,gitlab"/>
   </a>
 </p>
 <h3>Machine Learning / Data Science packages</h3>
