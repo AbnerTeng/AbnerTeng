@@ -14,22 +14,12 @@ Feel free to contact!
 
 
 <h2><img src = "https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width = "50">&nbsp My Skill Set</h2>
-<h3> Programming Language / Develop Tools</h3>
+<h3> Programming Language / Develop Tools / ML Related </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,cpp,bash,vim,linux,latex,git,github,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,mysql,cpp,bash,vim,linux,latex,git,github,"/>
   </a>
 </p>
-<h3>Machine Learning / Data Science packages</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40">
-  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="sklearn" width="100" height="40">
-  <img src="https://camo.githubusercontent.com/161d0875a4808ac2031e966232c535e724d7d897784a7e13710eb1fd58074a25/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="numpy" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40">
-  <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="40" height="40">
-</p>
-
-
 
 <h2><img src = "https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif" width = "50">&nbsp My GitHub Status</h2>  
 <div align="center">
