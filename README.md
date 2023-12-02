@@ -1,6 +1,6 @@
 <h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Yu-Chen (Abner)</h2>
 
-I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also a data analyst intern at iKala interactive media.
+I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also the director of Academic Affairs @ NTU DAC.
 
 - **Research Fields**: Deep Learning, Nautral Language Processing (NLP), Data Science and Empirical Asset Pricing with Machine Learning / Deep Learning Approaches.
 - **Interests**: Baskteball, Coding, Travel, Shopping, Reading, Guitar & Sing
