@@ -2,8 +2,8 @@
 
 I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also the director of Academic Affairs @ NTU DAC.
 
-- **Research Fields**: Deep Learning, Nautral Language Processing (NLP), Data Science and Empirical Asset Pricing with Machine Learning / Deep Learning Approaches.
-- **Interests**: Baskteball, Coding, Travel, Shopping, Reading, Guitar & Sing
+- **Research Fields**: Deep Learning, Nautral Language Processing (NLP), Data Science and Empirical Asset Pricing.
+- **Interests**: Baskteball, Coding, Traveling, Reading, Guitar & Sing
 - **Academic Societies**: 5th Director of Academic Affairs @NTUDAC, 24th Algorithmic Trading mentor @TMBA
   
 Feel free to contact!
