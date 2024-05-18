@@ -1,12 +1,12 @@
 <h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Yu-Chen (Abner)</h2>
 
-I'm Yu-Chen (Abner), I'm currently a master student at NCCU MAB majored in Financial Engineering, and I'm also the director of Academic Affairs @ NTU DAC.
+I'm Yu-Chen (Abner), I'm currently a master's student at NCCU MAB majoring in Financial Engineering, and I'm also the director of Academic Affairs @ NTU DAC.
 
-- **Research Fields**: Deep Learning, Nautral Language Processing (NLP), Data Science and Empirical Asset Pricing.
-- **Interests**: Baskteball, Coding, Traveling, Reading, Guitar & Sing
+- **Research Fields**: Deep Learning, Natural Language Processing (NLP), Data Science, and Empirical Asset Pricing.
+- **Interests**: Basketball, Coding, Traveling, Reading, Guitar & Sing
 - **Academic Societies**: 5th Director of Academic Affairs @NTUDAC, 24th Algorithmic Trading mentor @TMBA
   
-Feel free to contact!
+Feel free to contact me!
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:abnerteng16@gmail.com)
 [![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yu-chen-abner/)
