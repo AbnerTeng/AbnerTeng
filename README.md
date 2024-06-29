@@ -1,8 +1,8 @@
 <h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Yu-Chen (Abner)</h2>
 
-I'm Yu-Chen (Abner) Den, currently a machine learning engineer @ SinoPac Holdings, I'm also a first-year Ph.D student @ Graduate Institute of Networking & Multimedia (GINM) @ NTU, but I have postponed the degree because I want to work first XDD.
+I'm Yu-Chen (Abner) Den, currently a machine learning engineer in the research team @ SinoPac Holdings, I'm also a first-year Ph.D student @ Graduate Institute of Networking & Multimedia (GINM), NTU, but I have postponed the degree because I want to work first XDD.
 
-Based on my past experiences in Financial Engineering, my research interests are **Empirical Asset Pricing with Machine Learning Approach**. But I'm now focusing on and learning **Natural Language Processing**, **Information Retrieval**, and **Machine Learning System Design**.
+Based on my past experiences in Financial Engineering, my research interests are **Empirical Asset Pricing with Machine Learning Approach**. But I'm now focusing on **Natural Language Processing**, **Information Retrieval**. Besides the theoretical part of machine learning and artificial intelligence, I'm now learning **Machine Learning System Design** because of my strong interest in figuring out how to deploy efficient machine learning models in the real world.
 
 Besides work, I enjoy playing basketball, fitness, traveling, reading, and playing guitar.
   
