@@ -2,7 +2,28 @@
 
 I'm Yu-Chen (Abner) Den, currently a machine learning engineer in AI Research Team @ SinoPac Holdings, I'm also a first-year Ph.D student @ Graduate Institute of Networking & Multimedia (GINM), NTU, but I have postponed the degree because I want to work first XDD.
 
-Based on my past experiences in Financial Engineering, my research interests are **Empirical Asset Pricing with Machine Learning Approach**. But I'm now focusing on **Natural Language Processing**, and **Tabular Neural Network**. Besides the theoretical part of machine learning and artificial intelligence, I'm now learning **Machine Learning System Design** because of my strong interest in deploying efficient machine learning models in the real world.
+<h3>Research fields / interests</h3>
+<ul>
+  <li>Empirical Asset Pricing via Machine Learning</li>
+  <li>Machine Learning Model Structure</li>
+  <li>Natural Language Processing</li>
+  <li>Quantitative Trading</li>
+  <li>Software Engineering</li>
+</ul>
+
+<h3>Experiences</h3>
+<ul>
+  <li>Work</li>
+    <ul>
+      <li>Machine Learning Engineer @ <a href="https://www.sinopac.com/upload/event/turingplan/index.html">AI Lab, SinoPac Holdings</a></li>
+      <li>Data Scientist Intern @ <a href="https://ikala.ai/">AI Lab, iKala</a></li>
+    </ul>
+  <li>Academic Socities</li>
+    <ul>
+      <li>5th Director of Academic Affairs @ <a href="https://ntudac.com/">NTU DAC</a></li>
+      <li>24 & 25th Mentor @ <a href="https://www.tmba-site.com/">Algorithm Trading Team, TMBA</a></li>
+    </ul>
+</ul>
 
 Besides work, I enjoy playing basketball, fitness, traveling, reading, and playing guitar.
   
@@ -17,13 +38,13 @@ Feel free to contact me!
 <h3> Programming Language / Develop Tools / ML Related </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,mysql,cpp,bash,vim,linux,latex,git,github,"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,latex,pytorch,sklearn,mysql,bash,vim,neovim,linux,git,github,docker"/>
   </a>
 </p>
 
 <h2><img src = "https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif" width = "50">&nbsp My GitHub Status</h2>  
 <div align="center">
-  <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=AbnerTeng&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api?username=AbnerTeng&show_icons=true&count_private=false&hide_border=true" align="center" />
   <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerTeng&layout=compact&show_icons=true&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=jupyter%20notebook" align="center" />
 <!--   <img style="display: inline-block" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbnerTeng" align="center" /> -->
 </div>
