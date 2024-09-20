@@ -4,9 +4,9 @@ I'm Yu-Chen (Abner) Den, currently a machine learning engineer in AI Research Te
 
 <h3>Research fields / interests</h3>
 <ul>
-  <li>Empirical Asset Pricing via Machine Learning</li>
-  <li>Machine Learning Model Structure</li>
-  <li>Natural Language Processing</li>
+  <li>Empirical Asset Pricing via Machine Learning / Deep Learning</li>
+  <li>Tabular Neural Network & Model Structure</li>
+  <li>Knowledge Discovery & Data Mining</li>
   <li>Quantitative Trading</li>
   <li>Software Engineering</li>
 </ul>
