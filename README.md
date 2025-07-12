@@ -1,12 +1,12 @@
 <h2><img src = "https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width = "60">&nbsp Hi, I'm Yu-Chen (Abner)</h2>
 
-I'm Yu-Chen (Abner) Den, currently a machine learning engineer in AI Research Team @ SinoPac Holdings, I'm also a first-year Ph.D student @ Graduate Institute of Networking & Multimedia (GINM), NTU, but I have postponed the degree because I want to work first XDD.
+I'm Yu-Chen (Abner) Den, currently a machine learning engineer in AI Research Team @ SinoPac Holdings. I'm also an incoming first-year Ph.D. student at the Graduate Institute of Networking & Multimedia (GINM), NTU.
 
 <h3>Research fields / interests</h3>
 <ul>
-  <li>Empirical Asset Pricing via Machine Learning / Deep Learning</li>
-  <li>Tabular Neural Network & Model Structure</li>
   <li>Knowledge Discovery & Data Mining</li>
+  <li>Information Retrieval</li>
+  <li>Tabular Neural Network & Model Structure</li>
   <li>Quantitative Trading</li>
   <li>Software Engineering</li>
 </ul>
