@@ -36,7 +36,7 @@ Feel free to contact me!
 <h3> Programming Language / Develop Tools / ML Related </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,latex,pytorch,sklearn,mysql,bash,vim,neovim,linux,git,github,docker"/>
+    <img src="https://skillicons.dev/icons?i=py,cpp,latex,pytorch,sklearn,bash,vim,neovim,linux,git,github,docker"/>
   </a>
 </p>
 
